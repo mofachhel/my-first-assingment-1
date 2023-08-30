@@ -1,0 +1,226 @@
+/* header styles */
+.header {
+ display: flex;
+ background-color: antiquewhite;
+ height: 450px;
+ width: 1300px;
+}
+.tittle{
+    height: 450px;
+    width: 500px;
+    padding-left: 120px;
+    padding-top: 30px;
+}
+.header-tittle{
+    font-size: 45px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header-description{
+    font-size: 20px;
+}
+.header-button {
+   background-color: red;
+   border: 0;
+   border-radius: 5px;
+   height: 30px;
+   width: 90px;
+   color: aliceblue;
+}
+.header-img{
+height: 400px;
+width: 370px;
+padding-left: 230px;
+padding-top: 50px;
+}
+
+/* main part-1 */
+
+.feature{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 150px;
+    
+    width: 420px;
+    text-align: center;
+    padding-left: 450px;
+}
+.feature-tittle{
+    font-size: 30px;
+}
+
+.feature-flower{
+    display: flex;
+    height: 450px;
+    width: 1200px;
+    gap: 50px;
+    padding-left: 150px;
+}
+
+.Flower-1{
+    padding-top: 47px;
+    height: 330px; 
+    width: 230px; 
+}
+.img-b-1{
+    background-color: blanchedalmond;
+    height: 380px;
+    width: 320px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    border: 0;
+    border-bottom: 0;
+}
+.Flower-2{
+    padding-top: 47px;
+    height: 330px; 
+    width: 230px; 
+}
+.img-b-2{
+    background-color: rgba(206, 192, 192, 0.75);
+    height: 380px;
+    width: 320px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    border: 0;
+    border-bottom: 0;   
+}
+
+.Flower-3{
+    padding-top: 47px;
+    height: 330px; 
+    width: 230px;
+   
+}
+.img-b-3{
+    background-color: blanchedalmond;
+    height: 380px;
+    width: 320px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    border: 0;
+    border-bottom: 0;
+}
+
+.one{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 20px;
+}
+.two{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 20px;
+}
+.three{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+/* main-2 */
+
+.main-2{
+    display: flex;
+    background-color: beige;
+    height: 400px;
+    width: 1300px;
+}
+.hot-deal{
+    text-align: center;
+    width: 500px;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.hot-deal-img{
+    padding-left: 150px;
+    padding-top: 30px;
+}
+.deal-button{
+    background-color: rgb(243, 78, 78);
+    border-radius: 5px;
+    border: 0;
+    height: 30px;
+    width: 80px;
+    color: aliceblue;
+}
+
+/* main-3 */
+.instragram{
+    
+  text-align: center;
+  height: 150px;
+  width: 400px;
+  padding-left: 400px;
+}
+.instragram-tittle{
+    font-size: 35px;
+}
+.instragram-img{
+    display: flex;
+    height: 400px;
+    width: 1100px;
+    gap: 10px;
+    padding-left: 100px;
+    gap: 20px;
+}
+.i-img-1{
+    height: 350px;
+    width: 270px;
+}
+.i-img-2{
+    height: 350px;
+    width: 270px;
+}
+.i-img-3{
+    height: 350px;
+    width: 270px;
+}
+.i-img-4{
+    height: 350px;
+    width: 270px;
+}
+
+.discount{
+    padding-top: 90px;
+}
+.last-banner{
+    background-image: url('/Flower-Asset/Rectangle\ 9.png');
+    height: 400px;
+    width: 1300px;
+    text-align: center;
+}
+.banner-tittle{
+    font-size: 40px;
+    font-weight: 600;
+}
+.input-field{
+    height: 35px;
+    width: 450px;
+    border-radius: 5px;
+    border: 0;
+}
+.banner-button{
+    height: 35px;
+    width: 90px;
+    background-color: red;
+    border: o;
+    border-radius: 5px;
+    color: aliceblue;
+}
+
+
+/* footer */
+.footer-tittle{
+    font-size: 36px;
+}
+.footer{
+    padding-top: 100px;
+    text-align: center;
+    background-color: black;
+    height: 250px;
+    width: 1300px;
+    color: aliceblue;
+}
+#span{
+    color: brown;
+}
